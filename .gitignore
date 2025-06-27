@@ -57,3 +57,4 @@ dkms.conf
 /output
 .atom-build.yml
 *.xls
+/.vscode
